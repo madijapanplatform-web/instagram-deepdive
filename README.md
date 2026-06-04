@@ -44,8 +44,6 @@ In Claude Code:
 /plugin install instagram-deepdive
 ```
 
-(Replace `madijapanplatform-web` with the GitHub owner once published.)
-
 ### Option B — `.skill` file (no GitHub needed)
 
 1. Download `instagram-deepdive.skill` from this repo.
