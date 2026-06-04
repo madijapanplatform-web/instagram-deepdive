@@ -40,11 +40,11 @@ This skill orchestrates external tools — you need all three:
 In Claude Code:
 
 ```
-/plugin marketplace add YOUR_GH/instagram-deepdive
+/plugin marketplace add madijapanplatform-web/instagram-deepdive
 /plugin install instagram-deepdive
 ```
 
-(Replace `YOUR_GH` with the GitHub owner once published.)
+(Replace `madijapanplatform-web` with the GitHub owner once published.)
 
 ### Option B — `.skill` file (no GitHub needed)
 
