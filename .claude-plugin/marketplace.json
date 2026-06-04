@@ -1,0 +1,41 @@
+{
+  "name": "instagram-deepdive-marketplace",
+  "owner": {
+    "name": "japanmadi"
+  },
+  "metadata": {
+    "description": "Instagram reel deep-dive content analysis — scrape, rank, and build an interactive HTML report with a 0-100 Reel Health Score.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "instagram-deepdive",
+      "source": "./",
+      "description": "Turn an Instagram URL into an interactive zine-style deep-dive: storyboard, cut/pacing, 3s hook breakdown, emotion-flow chart, why-it-went-viral metrics, benchmarking patterns, and a 0-100 Reel Health Score with Quick Wins. Requires the Apify MCP (+credits), Node.js, and ffmpeg.",
+      "version": "1.0.0",
+      "author": {
+        "name": "japanmadi"
+      },
+      "homepage": "https://github.com/YOUR_GH/instagram-deepdive",
+      "repository": "https://github.com/YOUR_GH/instagram-deepdive",
+      "license": "MIT",
+      "category": "marketing",
+      "tags": [
+        "instagram",
+        "reels",
+        "content-analysis",
+        "social-media",
+        "creative-strategy",
+        "apify",
+        "ffmpeg"
+      ],
+      "keywords": [
+        "agent-skills",
+        "instagram",
+        "reels",
+        "content-analysis",
+        "claude-code-skill"
+      ]
+    }
+  ]
+}

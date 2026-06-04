@@ -1,0 +1,23 @@
+{
+  "name": "instagram-deepdive",
+  "version": "1.0.0",
+  "description": "Turn an Instagram URL into a deep-dive content-analysis report. Scrapes recent posts/reels via the Apify MCP, ranks by engagement, and builds an interactive zine-style HTML deep-dive of a chosen reel — frame-by-frame storyboard, scene-cut & pacing analysis, 3-second hook breakdown, viewer emotion-flow chart with synced player, why-it-went-viral metrics, target/weakness analysis, cross-domain benchmarking patterns, and a 0-100 Reel Health Score with Quick Wins.",
+  "author": {
+    "name": "japanmadi"
+  },
+  "homepage": "https://github.com/YOUR_GH/instagram-deepdive",
+  "repository": "https://github.com/YOUR_GH/instagram-deepdive",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "instagram",
+    "reels",
+    "content-analysis",
+    "social-media",
+    "creative-strategy",
+    "apify",
+    "ffmpeg",
+    "claude-code-skill"
+  ],
+  "skills": ["./skills/"]
+}
